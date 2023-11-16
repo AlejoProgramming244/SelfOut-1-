@@ -1,0 +1,12 @@
+h1
+{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    width: 95%;
+    padding: 20px;
+    border-radius: 60px;
+}
+
+h4, h5, h3
+{
+    font-family: 'Lobster', sans-serif;
+}
